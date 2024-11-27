@@ -1,0 +1,2 @@
+manager.getPersonDetails()
+# manager.getEmployeeDetails()
